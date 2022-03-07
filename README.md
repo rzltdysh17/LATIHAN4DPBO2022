@@ -33,7 +33,7 @@ Repository ini dibuat untuk memenuhi Tugas Latihan 4 dalam mata kuliah Desain da
   
 - Driver
 
-  ![driver.png](https://github.com/rzltdysh17/LATIHAN4DPBO2022/blob/main/SS/driver1.png)
+  ![driver.png](https://github.com/rzltdysh17/LATIHAN4DPBO2022/blob/main/SS/driver.png)
   
  - Person from Driver
    
